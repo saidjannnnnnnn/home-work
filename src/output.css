@@ -562,8 +562,24 @@ video {
   margin-top: 10px;
 }
 
+.mt-\[30px\] {
+  margin-top: 30px;
+}
+
 .flex {
   display: flex;
+}
+
+.w-\[\] {
+  width: ;
+}
+
+.w-\[450pc\] {
+  width: 450pc;
+}
+
+.w-\[450px\] {
+  width: 450px;
 }
 
 .max-w-\[1200px\] {
@@ -623,6 +639,11 @@ video {
 .bg-\[\#FFAE33\] {
   --tw-bg-opacity: 1;
   background-color: rgb(255 174 51 / var(--tw-bg-opacity, 1));
+}
+
+.bg-\[\#FFB0AE\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 176 174 / var(--tw-bg-opacity, 1));
 }
 
 .p-\[20px\] {
