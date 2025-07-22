@@ -644,6 +644,10 @@ video {
   padding-right: 20px;
 }
 
+.text-center {
+  text-align: center;
+}
+
 .text-\[48px\] {
   font-size: 48px;
 }
@@ -654,6 +658,14 @@ video {
 
 .text-\[24px\] {
   font-size: 24px;
+}
+
+.text-\[22px\] {
+  font-size: 22px;
+}
+
+.text-\[46px\] {
+  font-size: 46px;
 }
 
 .text-white {
@@ -668,4 +680,16 @@ video {
 .text-black {
   --tw-text-opacity: 1;
   color: rgb(0 0 0 / var(--tw-text-opacity, 1));
+}
+
+.text-\[32\] {
+  color: 32;
+}
+
+.text-\[22\] {
+  color: 22;
+}
+
+.text-\[px\] {
+  color: px;
 }
